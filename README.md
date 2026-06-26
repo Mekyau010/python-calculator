@@ -1,95 +1,110 @@
-# Python Calculator
+# 🧮 Python Calculator
 
-A beginner-friendly Python calculator that performs basic arithmetic operations and demonstrates core programming concepts such as functions, user input, conditional statements, and error handling.
+A simple command-line calculator built with Python that performs basic arithmetic operations. This project was created to strengthen fundamental Python programming skills, including functions, conditional statements, user input, and error handling.
 
-## 📌 Features
+## 📖 Overview
+
+The Python Calculator allows users to perform common mathematical operations through an interactive command-line interface. It is designed for beginners who want to understand how Python handles user input, decision-making, and arithmetic calculations.
+
+## ✨ Features
 
 - ➕ Addition
 - ➖ Subtraction
 - ✖️ Multiplication
 - ➗ Division
-- Handles invalid input gracefully
-- Simple command-line interface
-- Beginner-friendly and easy to understand
+- ✅ User-friendly command-line interface
+- ✅ Input validation
+- ✅ Beginner-friendly code structure
 
-## 🛠️ Technologies Used
+## 🛠️ Built With
 
 - Python 3
 
 ## 📂 Project Structure
 
-```
+```text
 python-calculator/
-│
 ├── calculator.py
-└── README.md
+├── README.md
+├── LICENSE
+└── .gitignore
 ```
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-- Python 3.x installed on your computer
+- Python 3.x
 
 ### Installation
 
-1. Clone this repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/Mekyau010/python-calculator.git
 ```
 
-2. Navigate to the project folder:
+Navigate into the project directory:
 
 ```bash
 cd python-calculator
 ```
 
-3. Run the program:
+Run the application:
 
 ```bash
 python calculator.py
 ```
 
-## 💻 Example
+## 💻 Sample Output
 
-```
-Welcome to Python Calculator
+```text
+===== Python Calculator =====
 
-Select an operation:
+Choose an operation
+
 1. Addition
 2. Subtraction
 3. Multiplication
 4. Division
 
-Enter first number: 15
+Enter first number: 20
 Enter second number: 5
 
-Result: 20
+Result: 25
 ```
 
-## 📚 What I Learned
+## 📚 Skills Demonstrated
 
-This project helped me practice:
+This project demonstrates:
 
 - Python syntax
 - Functions
-- User input (`input()`)
 - Conditional statements (`if`, `elif`, `else`)
-- Basic arithmetic operations
-- Error handling
-- Writing clean and organized code
+- User input handling
+- Arithmetic operations
+- Basic error handling
+- Writing clean and readable code
 
 ## 🔮 Future Improvements
 
-- Add exponent and modulus operations
-- Build a graphical user interface (GUI)
-- Add calculation history
-- Support multiple calculations in one session
+- Percentage calculations
+- Exponent operation
+- Modulus operation
+- Calculation history
+- Continuous calculations without restarting
+- Graphical User Interface (GUI)
 
 ## 🤝 Contributing
 
-Contributions, suggestions, and improvements are welcome. Feel free to fork the repository and submit a pull request.
+Contributions are welcome!
+
+If you'd like to improve this project:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Submit a Pull Request.
 
 ## 📄 License
 
@@ -97,4 +112,10 @@ This project is licensed under the MIT License.
 
 ---
 
-**Created by Aminu Bashir**
+## 👨‍💻 Author
+
+**Aminu Bashir**
+
+GitHub: https://github.com/Mekyau010
+
+⭐ If you found this project helpful, consider giving it a star!
