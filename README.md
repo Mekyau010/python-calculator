@@ -2,25 +2,25 @@
 
 A simple command-line calculator built with Python that performs basic arithmetic operations. This project was created to strengthen fundamental Python programming skills, including functions, conditional statements, user input, and error handling.
 
-## 📖 Overview
+##  Overview
 
 The Python Calculator allows users to perform common mathematical operations through an interactive command-line interface. It is designed for beginners who want to understand how Python handles user input, decision-making, and arithmetic calculations.
 
-## ✨ Features
+## Features
 
-- ➕ Addition
+- ➕ Project
 - ➖ Subtraction
 - ✖️ Multiplication
 - ➗ Division
-- ✅ User-friendly command-line interface
-- ✅ Input validation
-- ✅ Beginner-friendly code structure
+-  User-friendly command-line interface
+-  Input validation
+-  Beginner-friendly code structure
 
-## 🛠️ Built With
+##  Built With
 
 - Python 3
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 python-calculator/
@@ -30,7 +30,7 @@ python-calculator/
 └── .gitignore
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -56,7 +56,7 @@ Run the application:
 python calculator.py
 ```
 
-## 💻 Sample Output
+## Sample Output
 
 ```text
 ===== Python Calculator =====
@@ -73,9 +73,7 @@ Enter second number: 5
 
 Result: 25
 ```
-
-## 📚 Skills Demonstrated
-
+## Skills DDemonstrated
 This project demonstrates:
 
 - Python syntax
@@ -86,7 +84,7 @@ This project demonstrates:
 - Basic error handling
 - Writing clean and readable code
 
-## 🔮 Future Improvements
+## FFutureImprovements
 
 - Percentage calculations
 - Exponent operation
@@ -95,7 +93,7 @@ This project demonstrates:
 - Continuous calculations without restarting
 - Graphical User Interface (GUI)
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome!
 
@@ -106,16 +104,15 @@ If you'd like to improve this project:
 3. Make your changes.
 4. Submit a Pull Request.
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
-
+## AAuthor
 **Aminu Bashir**
 
 GitHub: https://github.com/Mekyau010
 
-⭐ If you found this project helpful, consider giving it a star!
+ IIfyou found this project helpful, consider giving it a star!
